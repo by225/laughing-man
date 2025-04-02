@@ -1,0 +1,8 @@
+**/__pycache__/
+.codesandbox/
+.venv/
+static/
+main.py
+README.md
+requirements_*.txt
+yarn.lock
